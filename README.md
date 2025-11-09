@@ -1,4 +1,4 @@
-#🌊 AquaSentinel
+#AquaSentinel
 
 A Cloud-Integrated AIoT System for Water Quality and Level Monitoring
 
